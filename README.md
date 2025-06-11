@@ -31,12 +31,12 @@ This project uses smartphone sensor data to predict human activities using machi
 ##  Results
 
 -> Baseline Model (561 Features):
-   - Accuracy: ~X% (replace with your output)
-   - Training Time: ~Y sec
+   - Accuracy: 71.22%
+   - Training Time: 0.097 sec
 
 -> Reduced Model (50 Features via K-Means):
-   - Accuracy: ~Z% (replace with your output)
-   - Training Time: Significantly reduced
+   - Accuracy: 84.36%
+   - Training Time: 0.0105 sec
 
 ##  Key Highlights
 
@@ -51,10 +51,4 @@ This project uses smartphone sensor data to predict human activities using machi
 -> pandas, numpy, scikit-learn  
 -> BeautifulSoup (for scraping)  
 -> Google Colab environment
-
-##  Future Improvements
-
--> Try additional models (e.g., SVM, Random Forest) for performance comparison.
--> Apply PCA or t-SNE for alternate dimensionality reduction.
--> Extend to test dataset for final model validation.
 
