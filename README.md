@@ -1,5 +1,5 @@
 
-# Human Activity Recognition (HAR) - Failure Rate Predictor  
+# Human Activity Recognition (HAR)
 
 This project uses smartphone sensor data to predict human activities using machine learning. The dataset was scraped from the UCI Machine Learning Repository using BeautifulSoup, and various preprocessing and modeling techniques were applied for classification.  
 
